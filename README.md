@@ -1,4 +1,4 @@
-# Hello this are my poems
+# here you can find the english versions of my poems
 
 - [Call me Elio](https://github.com/JuliaHuerli/english-versions/blob/main/Call%20me%20Elio)
 - [Strawberry Sorbet in Winter](https://github.com/JuliaHuerli/english-versions/blob/main/Strawberry%20Sorbet%20in%20Winter)
